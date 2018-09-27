@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "My First Post, Test"
-date: 2018-09-26
+title: My first post
+date: 2018-09-07
 ---
 
-Test Test Test I really hope this works!
+My first post is a test because I have no clue what I am doing. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
